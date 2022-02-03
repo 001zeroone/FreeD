@@ -604,13 +604,13 @@
             "click":true
         },
         {
-            "name":"央视直播(Web)",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "name":"思古影视(Web)",
+            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3186.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
             "userAgent":"PC",
             "ads":"",
-            "webUrl":"https://tv.cctv.com/live/",
+            "webUrl":"https://www.siguyy.net/",
             "webOpen":true,
             "click":true
         },
